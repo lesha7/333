@@ -1,0 +1,64 @@
+.domoy{
+    background-color: rgb(0, 0, 0);
+    background: linear-gradient(to bottom right, rgb(0, 0, 0), rgb(3, 25, 152));
+}
+.nav-link{
+    color: rgb(255, 255, 255);
+    width: 150px ;
+    margin-top: 20px;
+    font-style: italic;
+    text-align: center;
+    margin-left: 222px;
+    font-size: 25px;
+}
+.btn{
+    margin-left: 250px;
+    margin-top: 20px;
+    background: linear-gradient(to bottom right, rgb(175, 28, 28), rgb(197, 213, 19));
+}
+.offcanvas-header{
+    width: 500px;
+}
+.offcanvas-top{
+    width: 500px;
+    margin-left: 660px;
+}
+.btnbtn-primary{
+    width: 200px;
+    margin-left: 150px;
+    margin-top: 5px;
+    background: linear-gradient(to bottom right, rgb(175, 28, 28), rgb(197, 213, 19));
+    color: white;
+}
+.h6{
+    text-align: center;
+}
+body {
+    background-image: url(ckgr.jpg);
+    background-size: 100%; 
+}
+.md{
+    margin-left: 500px;
+    color:white;     
+}
+.aa{
+    margin-top: -88px;
+}
+.mmm{
+    margin-left: 848px;
+    color:white;   
+}
+.wrapper{
+    margin-top: 130px;
+}
+footer {
+    color: #ffffff;
+    display: flex;
+    min-height: 75px;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(to bottom right, rgb(99, 48, 0), rgb(175, 28, 28));
+}
+.card{
+    background-color: rgba(200, 207, 7, 0.431);
+}
